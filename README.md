@@ -11,6 +11,8 @@ Tested on Vivado 2024.2
 waveform
 ![image](https://github.com/user-attachments/assets/b721866a-e716-4020-86e7-c7eeb9a7aa3c)
 
+#Documentation
+C3C Ursutu explained to me how to draw the entity design to correctly map the ports 
 ---
 
 ## GitHub Actions Testbench
